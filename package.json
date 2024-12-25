@@ -1,0 +1,27 @@
+{
+  "name": "t1",
+  "version": "1.0.0",
+  "main": "scrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/translate": "^8.5.0",
+    "@vitalets/google-translate-api": "^9.2.0",
+    "axios": "^1.7.9",
+    "browserstack-local": "^1.5.6",
+    "browserstack-webdriver": "^2.41.1",
+    "cheerio": "^1.0.0",
+    "deepl-node": "^1.15.0",
+    "dotenv": "^16.4.7",
+    "geckodriver": "^5.0.0",
+    "google-translate-api": "^2.3.0",
+    "puppeteer": "^23.11.1",
+    "selenium-webdriver": "^4.27.0",
+    "translate": "^3.0.1"
+  }
+}
