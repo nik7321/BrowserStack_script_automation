@@ -18,4 +18,6 @@ This project demonstrates the use of **Selenium WebDriver** in conjunction with 
 - **Node.js** installed on your local machine.
 - **BrowserStack account**: You will need a BrowserStack username and access key to run the tests on their 
                             platform.
-- **DeepL API key**: You will need a DeepL API key for translation.
+- **DeepL API key**: You will need a DeepL API key for translation
+
+-**NOTE**: All required keys like DeepL API key , BrowserStack username and access key are inside .env file 
